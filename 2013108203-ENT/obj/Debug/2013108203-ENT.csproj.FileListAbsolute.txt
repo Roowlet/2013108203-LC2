@@ -1,0 +1,5 @@
+C:\Users\Diego20\Desktop\Repositorio Tarea 2\2013108203-SLN\2013108203-ENT\bin\Debug\2013108203-ENT.dll
+C:\Users\Diego20\Desktop\Repositorio Tarea 2\2013108203-SLN\2013108203-ENT\bin\Debug\2013108203-ENT.pdb
+C:\Users\Diego20\Desktop\Repositorio Tarea 2\2013108203-SLN\2013108203-ENT\obj\Debug\2013108203-ENT.dll
+C:\Users\Diego20\Desktop\Repositorio Tarea 2\2013108203-SLN\2013108203-ENT\obj\Debug\2013108203-ENT.pdb
+C:\Users\Diego20\Desktop\Repositorio Tarea 2\2013108203-SLN\2013108203-ENT\obj\Debug\2013108203-ENT.csprojResolveAssemblyReference.cache
