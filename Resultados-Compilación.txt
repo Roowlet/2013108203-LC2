@@ -1,0 +1,11 @@
+﻿1>------ Operación Recompilar todo iniciada: proyecto: 2013108203-ENT, configuración: Debug Any CPU ------
+1>  2013108203-ENT -> C:\Users\Diego20\Documents\Visual Studio 2017\Projects\2013108203-LC2\2013108203-ENT\bin\Debug\2013108203-ENT.dll
+2>------ Operación Recompilar todo iniciada: proyecto: 2013108203-PER, configuración: Debug Any CPU ------
+2>  2013108203-PER -> C:\Users\Diego20\Documents\Visual Studio 2017\Projects\2013108203-LC2\2013108203-PER\bin\Debug\2013108203-PER.dll
+3>------ Operación Recompilar todo iniciada: proyecto: 2013108203-CON, configuración: Debug Any CPU ------
+4>------ Operación Recompilar todo iniciada: proyecto: 2013108203-MVC, configuración: Debug Any CPU ------
+5>------ Operación Recompilar todo iniciada: proyecto: 2013108203-API, configuración: Debug Any CPU ------
+3>  2013108203-CON -> C:\Users\Diego20\Documents\Visual Studio 2017\Projects\2013108203-LC2\2013108203-CON\bin\Debug\2013108203-CON.exe
+4>  2013108203-MVC -> C:\Users\Diego20\Documents\Visual Studio 2017\Projects\2013108203-LC2\2013108203-MVC\bin\2013108203-MVC.dll
+5>  2013108203-API -> C:\Users\Diego20\Documents\Visual Studio 2017\Projects\2013108203-LC2\2013108203-API\bin\2013108203-API.dll
+========== Recompilar todo: 5 correctos, 0 incorrectos, 0 omitidos ==========

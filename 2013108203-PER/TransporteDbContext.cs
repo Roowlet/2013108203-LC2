@@ -9,7 +9,7 @@ using _2013108203_PER.EntitiesConfigurations;
 
 namespace _2013108203_PER
 {
-    class TransporteDbContext : DbContext
+    public class TransporteDbContext : DbContext
     {
         public DbSet<Bus> Buses { get; set; }
         public DbSet<Cliente> Clientes { get; set; }
@@ -23,6 +23,9 @@ namespace _2013108203_PER
 
         }
 
+         
+
+       
       
     }
 }

@@ -11,7 +11,9 @@ C:\Users\Diego20\Desktop\Repositorio Tarea 2\2013108203-SLN\2013108203-CON\bin\D
 C:\Users\Diego20\Desktop\Repositorio Tarea 2\2013108203-SLN\2013108203-CON\obj\Debug\2013108203-CON.csprojResolveAssemblyReference.cache
 C:\Users\Diego20\Desktop\Repositorio Tarea 2\2013108203-SLN\2013108203-CON\obj\Debug\2013108203-CON.exe
 C:\Users\Diego20\Desktop\Repositorio Tarea 2\2013108203-SLN\2013108203-CON\obj\Debug\2013108203-CON.pdb
-C:\Users\Diego20\Documents\Visual Studio 2017\Projects\2013108203-LC2\2013108203-CON\obj\Debug\2013108203-CON.csprojResolveAssemblyReference.cache
+C:\Users\Diego20\Desktop\2013108203-LC2\2013108203-LC2\2013108203-CON\bin\Debug\2013108203-CON.exe.config
+C:\Users\Diego20\Desktop\2013108203-LC2\2013108203-LC2\2013108203-CON\obj\Debug\2013108203-CON.exe
+C:\Users\Diego20\Desktop\2013108203-LC2\2013108203-LC2\2013108203-CON\obj\Debug\2013108203-CON.pdb
 C:\Users\Diego20\Documents\Visual Studio 2017\Projects\2013108203-LC2\2013108203-CON\bin\Debug\2013108203-CON.exe.config
 C:\Users\Diego20\Documents\Visual Studio 2017\Projects\2013108203-LC2\2013108203-CON\bin\Debug\2013108203-CON.exe
 C:\Users\Diego20\Documents\Visual Studio 2017\Projects\2013108203-LC2\2013108203-CON\bin\Debug\2013108203-CON.pdb
@@ -22,8 +24,6 @@ C:\Users\Diego20\Documents\Visual Studio 2017\Projects\2013108203-LC2\2013108203
 C:\Users\Diego20\Documents\Visual Studio 2017\Projects\2013108203-LC2\2013108203-CON\bin\Debug\2013108203-PER.pdb
 C:\Users\Diego20\Documents\Visual Studio 2017\Projects\2013108203-LC2\2013108203-CON\bin\Debug\2013108203-PER.dll.config
 C:\Users\Diego20\Documents\Visual Studio 2017\Projects\2013108203-LC2\2013108203-CON\bin\Debug\EntityFramework.xml
+C:\Users\Diego20\Documents\Visual Studio 2017\Projects\2013108203-LC2\2013108203-CON\obj\Debug\2013108203-CON.csprojResolveAssemblyReference.cache
 C:\Users\Diego20\Documents\Visual Studio 2017\Projects\2013108203-LC2\2013108203-CON\obj\Debug\2013108203-CON.exe
 C:\Users\Diego20\Documents\Visual Studio 2017\Projects\2013108203-LC2\2013108203-CON\obj\Debug\2013108203-CON.pdb
-C:\Users\Diego20\Desktop\2013108203-LC2\2013108203-LC2\2013108203-CON\bin\Debug\2013108203-CON.exe.config
-C:\Users\Diego20\Desktop\2013108203-LC2\2013108203-LC2\2013108203-CON\obj\Debug\2013108203-CON.exe
-C:\Users\Diego20\Desktop\2013108203-LC2\2013108203-LC2\2013108203-CON\obj\Debug\2013108203-CON.pdb

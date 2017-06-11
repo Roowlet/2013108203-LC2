@@ -10,7 +10,6 @@ C:\Users\Diego20\Desktop\Repositorio Tarea 2\2013108203-SLN\2013108203-PER\bin\D
 C:\Users\Diego20\Desktop\Repositorio Tarea 2\2013108203-SLN\2013108203-PER\obj\Debug\2013108203-PER.csprojResolveAssemblyReference.cache
 C:\Users\Diego20\Desktop\Repositorio Tarea 2\2013108203-SLN\2013108203-PER\obj\Debug\2013108203-PER.dll
 C:\Users\Diego20\Desktop\Repositorio Tarea 2\2013108203-SLN\2013108203-PER\obj\Debug\2013108203-PER.pdb
-C:\Users\Diego20\Documents\Visual Studio 2017\Projects\2013108203-LC2\2013108203-PER\obj\Debug\2013108203-PER.csprojResolveAssemblyReference.cache
 C:\Users\Diego20\Documents\Visual Studio 2017\Projects\2013108203-LC2\2013108203-PER\bin\Debug\2013108203-PER.dll.config
 C:\Users\Diego20\Documents\Visual Studio 2017\Projects\2013108203-LC2\2013108203-PER\bin\Debug\2013108203-PER.dll
 C:\Users\Diego20\Documents\Visual Studio 2017\Projects\2013108203-LC2\2013108203-PER\bin\Debug\2013108203-PER.pdb
@@ -20,5 +19,6 @@ C:\Users\Diego20\Documents\Visual Studio 2017\Projects\2013108203-LC2\2013108203
 C:\Users\Diego20\Documents\Visual Studio 2017\Projects\2013108203-LC2\2013108203-PER\bin\Debug\2013108203-ENT.pdb
 C:\Users\Diego20\Documents\Visual Studio 2017\Projects\2013108203-LC2\2013108203-PER\bin\Debug\EntityFramework.xml
 C:\Users\Diego20\Documents\Visual Studio 2017\Projects\2013108203-LC2\2013108203-PER\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Diego20\Documents\Visual Studio 2017\Projects\2013108203-LC2\2013108203-PER\obj\Debug\2013108203-PER.csprojResolveAssemblyReference.cache
 C:\Users\Diego20\Documents\Visual Studio 2017\Projects\2013108203-LC2\2013108203-PER\obj\Debug\2013108203-PER.dll
 C:\Users\Diego20\Documents\Visual Studio 2017\Projects\2013108203-LC2\2013108203-PER\obj\Debug\2013108203-PER.pdb

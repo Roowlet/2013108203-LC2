@@ -20,5 +20,9 @@ namespace _2013108203_ENT
             TipoViaje = new List<TipoViaje>();
 
         }
+
+        public class Entities
+        {
+        }
     }
 }
