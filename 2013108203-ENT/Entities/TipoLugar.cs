@@ -8,5 +8,15 @@ namespace _2013108203_ENT
 {
    public class TipoLugar
     {
+        public int TipoLugarId { get; set; }
+        public string NombreTipo { get; set; }
+
+        public virtual int LugarViajeId { get; set; }
+        public virtual LugarViaje LugarViaje { get; set; }
+
+        public TipoLugar()
+        {
+
+        }
     }
 }

@@ -8,5 +8,15 @@ namespace _2013108203_ENT
 {
    public class TipoTripulacion
     {
+        public int TipoTripulacionId { get; set; }
+        public string Nombre { get; set; }
+
+        public virtual int TripulacionId { get; set; }
+        public virtual Tripulacion Tripulacion { get; set; }
+
+        public TipoTripulacion()
+        {
+
+        }
     }
 }

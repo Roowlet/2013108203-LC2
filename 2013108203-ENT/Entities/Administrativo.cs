@@ -8,5 +8,14 @@ namespace _2013108203_ENT
 {
     public class Administrativo
     {
+
+        public virtual int VentaId { get; set; }
+        public virtual Venta Venta { get; set; }
+
+
+        public Administrativo()
+        {
+
+        }
     }
 }

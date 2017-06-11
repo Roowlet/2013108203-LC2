@@ -6,7 +6,18 @@ using System.Threading.Tasks;
 
 namespace _2013108203_ENT
 {
-   public class Tripulacion
+   public class Tripulacion : Empleado
     {
+        public string NombreTripulacion { get; set; }
+
+        public virtual int BusId { get; set; }
+        public virtual Bus Bus { get; set; }
+
+        public virtual ICollection<TipoTripulacion> TipoTripulacion { get; set; }
+
+        public Tripulacion()
+        {
+            TipoTripulacion = new List<TipoTripulacion>();
+        }
     }
 }
