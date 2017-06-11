@@ -9,33 +9,23 @@ namespace _2013108203_ENT.IRepositories
 {
     public interface IRepository<Tentity> where Tentity : class 
     {
-        //C REATES
-        // Agrega un registro al repositorio (SQL SERVER) a la tabla Tentity
+        //CREATES
         void Add(Tentity entity);
-        // Agrega un registro al repositorio (SQL SERVER) a la tabla Tentity
         void AddRange(IEnumerable<Tentity> entities);
 
-
-        //R EADS
-        //Obtiene el  Registro con Primary Key = Id de la tabla Tentity
-        Tentity Get(int Id);
-        //Obtiene todos los registros de la tabla Tentity
+        //READS
+        Tentity Get(int? Id);
         IEnumerable<Tentity> GetAll();
-        //Obtiene todos los registros de la tabla Tentity que cumpla con la condiciòn predicate
-        IEnumerator<Tentity> Find(Expression<Func<Tentity, bool>> predicate);
 
+        IEnumerable<Tentity> Find(Expression<Func<Tentity, bool>> predicate);
 
-        //U PDATES
+        //UPDATES
+        //void Update(TEntity entity);
+        //void UpdateRange(IEnumerable<TEntity> entities);
 
-        void Update(Tentity entity);
-
-        void UpdateRange(IEnumerable<Tentity> entities);
-
-
-        //D ELATES
-
+        //DELETES
         void Delete(Tentity entity);
-
         void DeleteRange(IEnumerable<Tentity> entities);
+
     }
 }

@@ -5,10 +5,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Data.Entity;
 
 namespace _2013108203_PER.Repositories
 {
-    public interface IBusRepository : IRepository<Bus>
+    public class BusRepository : Repository<Bus>, IBusRepository
     {
+        public BusRepository(DbContext context) : base(context)
+        {
+        }
     }
 }
