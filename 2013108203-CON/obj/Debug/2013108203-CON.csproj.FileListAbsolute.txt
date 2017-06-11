@@ -24,3 +24,6 @@ C:\Users\Diego20\Documents\Visual Studio 2017\Projects\2013108203-LC2\2013108203
 C:\Users\Diego20\Documents\Visual Studio 2017\Projects\2013108203-LC2\2013108203-CON\bin\Debug\EntityFramework.xml
 C:\Users\Diego20\Documents\Visual Studio 2017\Projects\2013108203-LC2\2013108203-CON\obj\Debug\2013108203-CON.exe
 C:\Users\Diego20\Documents\Visual Studio 2017\Projects\2013108203-LC2\2013108203-CON\obj\Debug\2013108203-CON.pdb
+C:\Users\Diego20\Desktop\2013108203-LC2\2013108203-LC2\2013108203-CON\bin\Debug\2013108203-CON.exe.config
+C:\Users\Diego20\Desktop\2013108203-LC2\2013108203-LC2\2013108203-CON\obj\Debug\2013108203-CON.exe
+C:\Users\Diego20\Desktop\2013108203-LC2\2013108203-LC2\2013108203-CON\obj\Debug\2013108203-CON.pdb
