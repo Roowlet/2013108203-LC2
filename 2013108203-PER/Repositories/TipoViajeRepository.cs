@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace _2013108203_PER.Repositories
 {
-    public class TipoViajeRepository : Repository<TipoViaje>, ITipoViajeRepository
+    public interface ITipoViajeRepository : IRepository<TipoViaje>
     {
     }
 }

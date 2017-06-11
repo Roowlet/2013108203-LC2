@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace _2013108203_PER.Repositories
 {
-    public class BusRepository : Repository<Bus>, IBusRepository
+    public interface IBusRepository : IRepository<Bus>
     {
     }
 }

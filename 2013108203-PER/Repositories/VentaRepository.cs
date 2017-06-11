@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace _2013108203_PER.Repositories
 {
-    public class VentaRepository : Repository<Venta>, IVentaRepository
+    public interface IVentaRepository : IRepository<Venta>
     {
     }
 }
