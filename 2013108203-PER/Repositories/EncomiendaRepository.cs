@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace _2013108203_PER.Repositories
 {
-    public class EncomiendaRepository : Repository<Encomienda>, IEncomiendaRepository
+    public interface IEncomiendaRepository : IRepository<Encomienda>
     {
     }
 }

@@ -8,6 +8,6 @@ using System.Threading.Tasks;
 
 namespace _2013108203_PER.Repositories
 {
-    public interface ITipoLugarRepository : IRepository<TipoLugar>
+    public interface ITipoLugarRepository : IRepository<TipoLugar> { 
     }
 }
